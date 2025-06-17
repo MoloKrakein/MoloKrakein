@@ -24,7 +24,7 @@
 - 👨‍💻 I'm a passionate software engineer who loves creating robust, innovative applications.
 - 🎮 My main focus is on **Game Development** using the **Unity Engine**.
 - 💡 I enjoy challenging myself, exploring new tech, and trying goofy stuff on the side.
-- 🔧 **Hobby:** Fixing a PC, then promptly breaking that same PC.
+- 🔧 **Hobby:** Fixing a PC, then promptly breaking that same PC for fixing it again.
 
 <details>
   <summary>😄 Fun Fact About Me</summary>
